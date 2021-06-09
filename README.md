@@ -16,5 +16,8 @@ apt install mutt
 
 pkg install git
 
-git clone
+git clone https://github.com/CiberDark888/FBBrute
 
+cd FBBrute
+
+bash FBBrute.sh
