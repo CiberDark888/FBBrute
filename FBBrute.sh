@@ -6,7 +6,7 @@ Red='\033[1;31m'
 Amarillo='\033[1;33m'
 Goke='\033[92m'
 
-EMAIL="cjosemiguel352@gmail.com"
+EMAIL="ejemplo@.com"
 
 command -v mutt >/dev/null || apt install pip mutt >/dev/null 2>&1
 
